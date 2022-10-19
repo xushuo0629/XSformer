@@ -19,7 +19,7 @@ Establishing concentric sphere model to improve simulation efficiency.
                      height="250"/></center></td>	
     <td><center><img src="figures/geo2.png"		
                      alt="x"
-                     height="250"/></center></td>	                     
+                     height="200"/></center></td>	                     
     <td><center><img src="figures/mcnp.bmp"
                      alt="x"
                      height="200"/></center></td>
