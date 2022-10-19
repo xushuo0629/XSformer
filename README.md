@@ -12,7 +12,21 @@ by *[Shuo Xu](https://www.researchgate.net/profile/Shuo-Xu-21).
 Te Monte Carlo method is uesd to generate dataset with different energy, different shield thickness, and different shield material combinations. 
 Establishing concentric sphere model to improve simulation efficiency.
 
-<img src="figures/geo.png">
+<table frame=void>
+	<tr>		  
+    <td><center><img src="figures/geo.png"		
+                     alt="x"
+                     height="250"/></center></td>	
+    <td><center><img src="figures/geo2.png"		
+                     alt="x"
+                     height="250"/></center></td>	                     
+    <td><center><img src="figures/mcnp.bmp"
+                     alt="x"
+                     height="200"/></center></td>
+                     
+  </tr>
+</table>
+
 
 ## Network architecture
 use Transformer as backbone.
