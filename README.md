@@ -48,7 +48,7 @@ We innovatively proposed a physics embedding method and designed anequivalent ph
 
 ## Acknowledgments
 We would like to acknowledge [Hugging Face community](https://huggingface.co/) for their [pytorch implementation of Transformer](https://github.com/huggingface/pytorch-openai-transformer-lm), which gaves me some inspiration in modeling, although we didn't directly carry their code.
-We also would like to acknowledge [Zhizheng zhang](https://github.com/MaoXvan) for their [matlab implementation of NIST Dataset](https://github.com/MaoXvan/X-ray-Attenuation-Calculator)
+We also would like to acknowledge [Zhizhen zhang](https://github.com/MaoXvan) for their [matlab implementation of NIST Dataset](https://github.com/MaoXvan/X-ray-Attenuation-Calculator)
 
 &nbsp;
  <p align="right">
