@@ -11,7 +11,7 @@ by *[Shuo Xu](https://www.researchgate.net/profile/Shuo-Xu-21).
 Traditional method (empirical formula) to calculate Build-Up factor has large deviation
 <center><img src="figures/e.bmp"		
                   alt="x"
-                  height="300"/></center></td>
+                  height="x"/></center></td>
 		  
 ## Dataset
 Te Monte Carlo method is uesd to generate dataset with different energy, different shield thickness, and different shield material combinations. 
@@ -19,15 +19,15 @@ Establishing concentric sphere model to improve simulation efficiency.
 
 <table frame=void>
 	<tr>		  
-    <td><center><img src="figures/geo.png"		
+    <td width="28%"><center><img src="figures/geo.png"		
                      alt="x"
-                     height="250"/></center></td>	
-    <td><center><img src="figures/geo2.png"		
+                     height="x"/></center></td>	
+    <td width="28%"><center><img src="figures/geo2.png"		
                      alt="x"
-                     height="200"/></center></td>	                     
-    <td><center><img src="figures/mcnp.bmp"
+                     height="x"/></center></td>	                     
+    <td width="44%"><center><img src="figures/mcnp.bmp"
                      alt="x"
-                     height="200"/></center></td>
+                     height="x"/></center></td>
                      
   </tr>
 </table>
