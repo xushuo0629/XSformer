@@ -43,10 +43,11 @@ Establishing concentric sphere model to improve simulation efficiency.
 
 ## Network architecture
 We use Transformer as backbone. The embedding layer and output is replaced according to the downstream task.
+We innovatively proposed a physics embedding method and designed anequivalent physical layer.
 <img src="figures/model.bmp">
 
 ## Acknowledgments
-We would like to acknowledge [Hugging Face community](https://huggingface.co/) for their [pytorch implementation of Transformer](https://github.com/huggingface/pytorch-openai-transformer-lm), which gaves me some inspiration in modeling, although we didn't directly carry their code
+We would like to acknowledge [Hugging Face community](https://huggingface.co/) for their [pytorch implementation of Transformer](https://github.com/huggingface/pytorch-openai-transformer-lm), which gaves me some inspiration in modeling, although we didn't directly carry their code.
 
 &nbsp;
  <p align="right">
