@@ -8,10 +8,18 @@ by *[Shuo Xu](https://www.researchgate.net/profile/Shuo-Xu-21).
 ****
 
 ## background
-Traditional method (empirical formula) to calculate Build-Up factor has large deviation
-<center><img src="figures/e.bmp"		
-                  alt="x"
-                  height="x"/></center></td>
+Traditional method (empirical formula) to calculate Build-Up factor has large deviation.
+<table frame=void>
+	<tr>		  
+    <td width="50%"><center><img src="figures/e1.bmp"		
+                     alt="x"
+                     height="x"/></center></td>	
+    <td width="50%"><center><img src="figures/e2.bmp"		
+                     alt="x"
+                     height="x"/></center></td>	                     
+                     
+  </tr>
+</table>
 		  
 ## Dataset
 The Monte Carlo method is uesd to generate dataset with different energy, different shield thickness, and different shield material combinations. 
