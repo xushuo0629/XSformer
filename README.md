@@ -7,7 +7,11 @@ by *[Shuo Xu](https://www.researchgate.net/profile/Shuo-Xu-21).
 🔔 We proposed a network based on [Transformer](https://arxiv.org/abs/1706.03762)
 ****
 
-
+## background
+Traditional method (empirical formula) to calculate Build-Up factor has large deviation
+<center><img src="figures/e.bmp"		
+                  alt="x"
+                  height="300"/></center></td>
 ## Dataset
 Te Monte Carlo method is uesd to generate dataset with different energy, different shield thickness, and different shield material combinations. 
 Establishing concentric sphere model to improve simulation efficiency.
