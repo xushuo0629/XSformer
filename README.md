@@ -12,6 +12,7 @@ Traditional method (empirical formula) to calculate Build-Up factor has large de
 <center><img src="figures/e.bmp"		
                   alt="x"
                   height="300"/></center></td>
+		  
 ## Dataset
 Te Monte Carlo method is uesd to generate dataset with different energy, different shield thickness, and different shield material combinations. 
 Establishing concentric sphere model to improve simulation efficiency.
