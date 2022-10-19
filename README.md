@@ -14,7 +14,7 @@ Traditional method (empirical formula) to calculate Build-Up factor has large de
                   height="x"/></center></td>
 		  
 ## Dataset
-Te Monte Carlo method is uesd to generate dataset with different energy, different shield thickness, and different shield material combinations. 
+The Monte Carlo method is uesd to generate dataset with different energy, different shield thickness, and different shield material combinations. 
 Establishing concentric sphere model to improve simulation efficiency.
 
 <table frame=void>
@@ -34,5 +34,15 @@ Establishing concentric sphere model to improve simulation efficiency.
 
 
 ## Network architecture
-use Transformer as backbone.
+We use Transformer as backbone. The embedding layer and output is replaced according to the downstream task.
 <img src="figures/model.bmp">
+
+## Acknowledgments
+We would like to acknowledge [Hugging Face community](https://huggingface.co/) for their [pytorch implementation of Transformer](https://github.com/huggingface/pytorch-openai-transformer-lm), which gaves me some inspiration in modeling, although we didn't directly carry their code
+
+&nbsp;
+ <p align="right">
+  <b><i>
+  Copyright &#x00A9; 2022 ShuoXu. 
+  </i></b>
+</p>
